@@ -15,7 +15,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "./bin/contact_me.php",
+                url: "contact_me.php",
                 type: "POST",
                 data: {
                     name: name,
@@ -39,7 +39,7 @@ $(function() {
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
-                    $('#success > .alert-danger').append("<strong>Desculpe " + firstName + " parece que o meu servidor de e-mail não está respondendo...</strong> Por favor, entre em contato diretamente no meu e-mail: <a href='mailto:ivan.microsuture@bol.com.br?Subject=Contato Site'>microsuture@microsuture.com.br</a> Desculpe pelo inconveniente!");
+                    $('#success > .alert-danger').append("<strong>Desculpe " + firstName + " parece que o meu servidor de e-mail não está respondendo...</strong> Por favor, entre em contato diretamente no meu e-mail: <a href='mailto:vendas@microsuture.com.br?Subject=Contato Site'>vendas@microsuture.com.br</a></br>Desculpe pelo inconveniente!");
                     $('#success > .alert-danger').append('</div>');
 
                     $('#contactForm').trigger("reset");
