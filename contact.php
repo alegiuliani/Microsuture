@@ -20,7 +20,7 @@
             <div class="col-lg-12">
                 <h1 class="page-header"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contatos</h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
+                    <li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
                     <li class="active">Contatos</li>
                 </ol>
             </div>
@@ -86,8 +86,6 @@
                 </form>
             </div>
         </div>
-
-        <hr>
 
 		<?php include '/inc/footer.php';?>
 

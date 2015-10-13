@@ -95,8 +95,6 @@
             </div>
         </div>
 
-        <hr>
-
 		<?php include '/inc/footer.php';?>
 
 	</div>
