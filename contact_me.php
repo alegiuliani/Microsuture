@@ -9,7 +9,7 @@ $phone = $_POST['phone'];
 $email_address = $_POST['email'];
 $message = $_POST['message'];
 
-$to = 'microsutureindustria@gmail.com';
+$to = 'vendas@microsuture.com.br';
 $email_subject = "Envio de E-mail pelo site por:  $name";
 $email_body = "Contato enviado pelo site.\n\n"."Aqui estão os detalhes:\n\nNome: $name\n\nTelefone: $phone\n\nE-mail: $email_address\n\nMensagem:\n$message";
 $headers = "From: noreply@gmail.com\n";

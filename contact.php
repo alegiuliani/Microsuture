@@ -52,6 +52,41 @@
             </div>
         </div>
 
+        <div class="row">
+            <div class="col-md-8">
+                <h3>Envie nos uma mensagem:</h3>
+                <form name="sentMessage" id="contactForm" novalidate>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Nome Completo:</label>
+                            <input type="text" class="form-control" id="name" required data-validation-required-message="Por favor, informe seu nome completo!">
+                            <p class="help-block"></p>
+                        </div>
+                    </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Telefone para retorno:</label>
+                            <input type="tel" class="form-control" id="phone" required data-validation-required-message="Por favor, informe um telefone para contato!">
+                        </div>
+                    </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Endereço de E-mail:</label>
+                            <input type="email" class="form-control" id="email" required data-validation-required-message="Por favor, informe seu e-mail!">
+                        </div>
+                    </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Mensagem:</label>
+                            <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Por favor, informe sua mensagem!" maxlength="999" style="resize:none"></textarea>
+                        </div>
+                    </div>
+                    <div id="success"></div>
+                    <button type="submit" class="btn btn-primary">Enviar Mensagem</button>
+                </form>
+            </div>
+        </div>
+
         <hr>
 
 		<?php include '/inc/footer.php';?>
