@@ -15,8 +15,7 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="./images/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-<meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Site da empresa Microsuture IndÃºstria LTDA - Microsuture Ind. Com. Imp. Exp. e Rep. de Mat. Cir. Ltda, criada em 05/08/2005 para fabricar instrumentos nÃ£o eletrÃ´nicos e utensÃ­lios para uso mÃ©dico, cirÃºrgico, odontolÃ³gico e de laboratÃ³rio.">
+<meta name="description" content="Site da empresa Microsuture Indústria LTDA - Microsuture Ind. Com. Imp. Exp. e Rep. de Mat. Cir. Ltda, criada em 05/08/2005 para fabricar instrumentos não eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório.">
 <meta name="author" content="Alexandre Giuliani - alexandregiuliani.com">

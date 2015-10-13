@@ -2,9 +2,9 @@
 <html lang="pt-br">
 <head>
 
-	<?php include '/inc/head.php';?>
+	<?php include './inc/head.php';?>
 
-    <title>Microsuture IndÃºstria LTDA. | Brasil - Sobre a Empresa</title>
+    <title>Microsuture Indústria LTDA. | Brasil - Sobre a Empresa</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -12,7 +12,7 @@
 
 <body>
 
-	<?php include '/inc/menu.php';?>
+	<?php include './inc/menu.php';?>
 
     <div class="container">
 
@@ -28,12 +28,12 @@
 
         <div class="row">
             <div class="col-md-12">
-                <h2 class="page-header">Microsuture IndÃºstria Ltda.</h2>
-				<p>A Microsuture Ã© uma empresa com muita experiÃªncia e tem orgulho por ser uma empresa genuinamente brasileira, fabricando suturas cirÃºrgicas com moderna tecnologia desde 2005.
-				Com vasta formaÃ§Ã£o tÃ©cnica, fabril e gerencial em indÃºstrias nacionais e multinacionais, fabricante de fios e sutura, a diretoria da Microsuture, adquiriu conhecimento e desenvolveu, em parceria com a Alemanha, colaboradores capacitados a produzirem fios de sutura com total eficiÃªncia e qualidade, utilizando agulhas compostas por aÃ§o 300 alemÃ£o. Devidamente autorizada pelo <b>MinistÃ©rio da SaÃºde - ANVISA</b> e com <b>Certificado de Boas PrÃ¡ticas de FabricaÃ§Ã£o - CBPF</b>, a Microsuture produz fios cirÃºrgicos em ambiente apropriado, seguindo rigorosamente os padrÃµes estabelecidos pelas normas tÃ©cnicas vigentes.</p>
-				<p align="center"><b><i>"Para projetar o futuro, Ã© preciso construir <br>o presente com excelentes referÃªncias do passado."</i></b></p>
-				<p>Estamos sempre dispostos a disponibilizar informaÃ§Ãµes tÃ©cnicas, com o intuito de melhor atender a nossos clientes e parceiros comerciais, partilhando dados importantes sobre o uso e manuseio de sutura padrÃ£o.</p>
-				<p>Dentre os principais centros mÃ©dicos nacionais e internacionais, a Microsuture tem participaÃ§Ã£o  efetiva  no  quadro  de  fornecedores,  tida  como  importante  colaboradora  no fornecimento de suturas ao mercado privado e pÃºblico.</p>
+                <h2 class="page-header">Nossa história</h2>
+				<p>A Microsuture é uma empresa com muita experiência e tem orgulho por ser uma empresa genuinamente brasileira, fabricando suturas cirúrgicas com moderna tecnologia desde 2005.
+				Com vasta formação técnica, fabril e gerencial em indústrias nacionais e multinacionais, fabricante de fios e sutura, a diretoria da Microsuture, adquiriu conhecimento e desenvolveu, em parceria com a Alemanha, colaboradores capacitados a produzirem fios de sutura com total eficiência e qualidade, utilizando agulhas compostas por aço 300 alemão. Devidamente autorizada pelo <b>Ministério da Saúde - Anvisa</b> e com <b>Certificado de Boas Práticas de Fabricação - CBPF</b>, a Microsuture produz fios cirúrgicos em ambiente apropriado, seguindo rigorosamente os padrões estabelecidos pelas normas técnicas vigentes.</p>
+				<p align="center"><b><i>"Para projetar o futuro, é preciso construir <br>o presente com excelentes referências do passado."</i></b></p>
+				<p>Estamos sempre dispostos a disponibilizar informações técnicas, com o intuito de melhor atender a nossos clientes e parceiros comerciais, partilhando dados importantes sobre o uso e manuseio de sutura padrão.</p>
+				<p>Dentre os principais centros médicos nacionais e internacionais, a Microsuture tem participação  efetiva  no  quadro  de  fornecedores,  tida  como  importante  colaboradora  no fornecimento de suturas ao mercado privado e público.</p>
             </div>
         </div>
 
@@ -43,19 +43,19 @@
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="./images/clients/benef.jpg" alt="BeneficÃªncia Portuguesa de SÃ£o Paulo">
+                <img class="img-responsive customer-img" src="./images/clients/benef.jpg" alt="Beneficência Portuguesa de São Paulo">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="./images/clients/dante.png" alt="Instituto Dante Pazzenese de Cardiologia de SÃ£o Paulo">
+                <img class="img-responsive customer-img" src="./images/clients/dante.png" alt="Instituto Dante Pazzenese de Cardiologia de São Paulo">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="./images/clients/saocamilo.jpg" alt="Hospitais da Rede SÃ£o Camilo">
+                <img class="img-responsive customer-img" src="./images/clients/saocamilo.jpg" alt="Hospitais da Rede São Camilo">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive customer-img" src="./images/clients/ufsc.png" alt="Universidade Federal de Santa Catarina">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="./images/clients/hcsp.png" alt="Hospital das ClÃ­nicas de SÃ£o Paulo">
+                <img class="img-responsive customer-img" src="./images/clients/hcsp.png" alt="Hospital das ClÃ­nicas de São Paulo">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive customer-img" src="./images/clients/hccamp.png" alt="Hospital das ClÃ­nicas de Campinas">
@@ -67,7 +67,7 @@
                 <img class="img-responsive customer-img" src="./images/clients/prj.jpg" alt="Prefeituras do Rio de Janeiro">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="./images/clients/psp.jpg" alt="Prefeituras de SÃ£o Paulo">
+                <img class="img-responsive customer-img" src="./images/clients/psp.jpg" alt="Prefeituras de São Paulo">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive customer-img" src="./images/clients/rjses.png" alt="Secretaria do Estado do Rio de Janeiro">
@@ -75,14 +75,14 @@
 
         </div>
 
-		<?php include '/inc/footer.php';?>
+		<?php include './inc/footer.php';?>
 
     </div>
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
-	<?php include '/inc/analytics.php';?>
+	<?php include './inc/analytics.php';?>
 
 </body>
 </html>

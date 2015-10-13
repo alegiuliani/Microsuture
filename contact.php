@@ -2,9 +2,9 @@
 <html lang="pt-br">
 <head>
 
-	<?php include '/inc/head.php';?>
+	<?php include './inc/head.php';?>
 
-    <title>Microsuture IndÃºstria LTDA. | Brasil - Contatos</title>
+    <title>Microsuture Indústria LTDA. | Brasil - Contatos</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -12,7 +12,7 @@
 
 <body>
 
-	<?php include '/inc/menu.php';?>
+	<?php include './inc/menu.php';?>
 
     <div class="container">
 
@@ -35,7 +35,7 @@
             </div>
             <div class="col-md-4">
                 <p>
-					Rua LavÃ­nio Salles Arcuri, 791<br>Casa Verde Alta, 02564-000<br>SÃ£o Paulo
+					Rua Lavínio Salles Arcuri, 791<br>Casa Verde Alta, 02564-000<br>São Paulo
                 </p>
                 <p><i class="fa fa-phone"></i> 
                     <abbr title="Telefone">T</abbr>: (11) 3966-4033</p>
@@ -71,7 +71,7 @@
                     </div>
                     <div class="control-group form-group">
                         <div class="controls">
-                            <label>EndereÃ§o de E-mail:</label>
+                            <label>Endereço de E-mail:</label>
                             <input type="email" class="form-control" id="email" required data-validation-required-message="Por favor, informe seu e-mail!">
                         </div>
                     </div>
@@ -87,7 +87,7 @@
             </div>
         </div>
 
-		<?php include '/inc/footer.php';?>
+		<?php include './inc/footer.php';?>
 
     </div>
 
@@ -96,7 +96,7 @@
     <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
 
-	<?php include '/inc/analytics.php';?>
+	<?php include './inc/analytics.php';?>
 
 </body>
 

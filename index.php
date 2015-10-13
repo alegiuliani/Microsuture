@@ -2,9 +2,9 @@
 <html lang="pt-br">
 <head>
 
-	<?php include '/inc/head.php';?>
+	<?php include './inc/head.php';?>
 
-    <title>Microsuture IndÃºstria LTDA. | Brasil</title>
+    <title>Microsuture Indústria LTDA. | Brasil</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -12,7 +12,7 @@
 
 <body>
 
-	<?php include '/inc/menu.php';?>
+	<?php include './inc/menu.php';?>
 
     <header id="headerCarousel" class="carousel slide">
         <ol class="carousel-indicators">
@@ -63,7 +63,7 @@
                     </div>
                     <div class="panel-body">
                         <p style="text-align: center;">
-							A <a href="products.html">linha de produtos</a> Microsuture &reg; abrange vÃ¡rias especialidades mÃ©dicas. Dentre elas estÃ£o as linhas de oftalmologia, microcirurgia, cirurgia plÃ¡stica e cardiolÃ³gica. <a href="contact.html">PeÃ§a jÃ¡ um orÃ§amento!</a>
+							A <a href="products.php">linha de produtos</a> Microsuture &reg; abrange várias especialidades médicas. Dentre elas estão as linhas de oftalmologia, microcirurgia, cirurgia plástica e cardiológica. <a href="contact.php">Peça já um orçamento!</a>
 						</p>
                     </div>
                 </div>
@@ -71,31 +71,31 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-check-circle-o"></i> GestÃ£o de Qualidade</h4>
+                        <h4><i class="fa fa-check-circle-o"></i> Gestão de Qualidade</h4>
                     </div>
                     <div class="panel-body">
                         <p style="text-align: center;">
-							A nossa principal preocupaÃ§Ã£o Ã© que os nossos produtos cheguem atÃ© os nossos clientes com excelÃªncia na qualidade.</br>
-							Com nossos mÃ©todos e processos com boas prÃ¡ticas de fabricaÃ§Ã£o, alcanÃ§amos a <b>QualificaÃ§Ã£o Excelente pela Anvisa!</b>
-						ï»¿</p>
+							A nossa principal preocupação é que os nossos produtos cheguem até os nossos clientes com excelência na qualidade.</br>
+							Com nossa experiência, métodos e processos com boas práticas de fabricação, alcançamos a <b>Qualificação Excelente pela Anvisa!</b>
+						</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-bullseye"></i> Suturas CirÃºrgicas</h4>
+                        <h4><i class="fa fa-bullseye"></i> Suturas Cirúrgicas</h4>
                     </div>
                     <div class="panel-body">
                         <p style="text-align: center;">
-							AbsorvÃ­veis ou nÃ£o absorvÃ­veis, a Microsuture oferece uma gama completa e inovadora de Suturas CirÃºrgicas. E podemos fabricar o seu tipo de fio para indicaÃ§Ãµes especÃ­ficas.
+							Absorvíveis ou não absorvíveis, a Microsuture oferece uma gama completa e inovadora de Suturas Cirúrgicas. E podemos fabricar o seu tipo de fio para indicações específicas.
 						</p>
                     </div>
                 </div>
             </div>
         </div>
 
-		<?php include '/inc/footer.php';?>
+		<?php include './inc/footer.php';?>
 
 	</div>
 	<script src="js/jquery.js"></script>
@@ -106,7 +106,7 @@
 	})
 	</script>
 
-	<?php include '/inc/analytics.php';?>
+	<?php include './inc/analytics.php';?>
 
 </body>
 </html>

@@ -2,9 +2,9 @@
 <html lang="pt-br">
 <head>
 
-	<?php include '/inc/head.php';?>
+	<?php include './inc/head.php';?>
 
-    <title>Microsuture Ind√∫stria LTDA. | Brasil - Produtos</title>
+    <title>Microsuture Ind˙stria LTDA. | Brasil - Produtos</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -12,16 +12,16 @@
 
 <body>
 
-	<?php include '/inc/menu.php';?>
+	<?php include './inc/menu.php';?>
 
     <div class="container">
 
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Portf√≥lio de Produtos</h1>
+                <h1 class="page-header">PortfÛlio de Produtos</h1>
                 <ol class="breadcrumb">
                     <li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
-                    <li class="active">Portf√≥lio de Produtos</li>
+                    <li class="active">PortfÛlio de Produtos</li>
                 </ol>
             </div>
         </div>
@@ -62,16 +62,16 @@
                 <p>MicroNylon &reg;</p>
                 <p>MicroPoly &reg;</p>
                 <p>MicroSeda &reg;</p>
-                <p>MicroA√ßo &reg;</p>
+                <p>MicroAÁo &reg;</p>
                 <p>MicroMonoABS &reg;</p>
                 <p>MicroCryl &reg;</p>
-                <p>Micro√âster &reg;</p>
+                <p>Micro…ster &reg;</p>
                 <h3>Linhas</h3>
                 <ul>
-                    <li>Oft√°lmica</li>
+                    <li>Oft·lmica</li>
                     <li>Microcirurgia</li>
-                    <li>Cirurgia Pl√°stica</li>
-                    <li>Cardiol√≥gica</li>
+                    <li>Cirurgia Pl·stica</li>
+                    <li>CardiolÛgica</li>
                 </ul>
             </div>
 
@@ -103,14 +103,14 @@
 
         </div>
 
-		<?php include '/inc/footer.php';?>
+		<?php include './inc/footer.php';?>
 
     </div>
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
-	<?php include '/inc/analytics.php';?>
+	<?php include './inc/analytics.php';?>
 
 </body>
 </html>

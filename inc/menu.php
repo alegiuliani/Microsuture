@@ -2,12 +2,12 @@
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-				<span class="sr-only">Microsuture Ind√∫stria Ltda</span>
+				<span class="sr-only">Microsuture Ind˙stria Ltda</span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="index.php">Microsuture Ind√∫stria</a>
+			<a class="navbar-brand" href="index.php">Microsuture Ind˙stria</a>
 		</div>
 
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -33,7 +33,7 @@
 							<a href="products.php"><span class="glyphicon glyphicon-object-align-horizontal" aria-hidden="true"></span> MicroSeda &reg;</a>
 						</li>
 						<li>
-							<a href="products.php"><span class="glyphicon glyphicon-object-align-horizontal" aria-hidden="true"></span> MicroA√ßo &reg;</a>
+							<a href="products.php"><span class="glyphicon glyphicon-object-align-horizontal" aria-hidden="true"></span> MicroAÁo &reg;</a>
 						</li>
 						<li>
 							<a href="products.php"><span class="glyphicon glyphicon-object-align-horizontal" aria-hidden="true"></span> MicroMonoABS &reg;</a>
@@ -42,12 +42,12 @@
 							<a href="products.php"><span class="glyphicon glyphicon-object-align-horizontal" aria-hidden="true"></span> MicroCryl &reg;</a>
 						</li>
 						<li>
-							<a href="products.php"><span class="glyphicon glyphicon-object-align-horizontal" aria-hidden="true"></span> Micro√âster &reg;</a>
+							<a href="products.php"><span class="glyphicon glyphicon-object-align-horizontal" aria-hidden="true"></span> Micro…ster &reg;</a>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="#"><span class="glyphicon glyphicon-save-file" aria-hidden="true"></span> Cat√°logo</a>
+					<a href="#"><span class="glyphicon glyphicon-save-file" aria-hidden="true"></span> Cat·logo</a>
 				</li>
 			</ul>
 		</div>
